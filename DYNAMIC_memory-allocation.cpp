@@ -1,4 +1,4 @@
-#include<iostream>to assing member fuction to using pointe strctur operator
+#include<iostream>
 using namespace std;
 class computer{
     public:

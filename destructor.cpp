@@ -21,6 +21,6 @@ using namespace std;
             }
     };
 int main(){
-    table t1("abc",2000,30);
+    table t1("abc",n00,30);
     return 0;
 }
