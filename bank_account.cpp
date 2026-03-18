@@ -36,8 +36,8 @@ class bank_details{
         }    
 };
 int main(){
-    bank_details person[n];
     int n;
+    bank_details person[n];
     cout<<"Enter the numbers of person::"<<endl;
     cin>>n;
     for(int i=0;i<n;i++){
