@@ -18,5 +18,6 @@ int main(){
     computer *ptr=new computer;
     ptr->getdata();
     ptr->putdata();
+    delete ptr;
     return 0;
 }
