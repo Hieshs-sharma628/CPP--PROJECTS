@@ -1,4 +1,4 @@
-//this progrma demonstartes bank account deails of multiple users
+//this progrma demondrawes bank account deails of multiple users
 #include<iostream>
 using namespace std;
 class bank_details{
