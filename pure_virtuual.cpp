@@ -10,7 +10,7 @@ class car : public shape{
             cout<<"This is my car"<<endl;
         }
 };
-class skoter : public shape{
+class scooter : public shape{
     public:
         void draw(){
             cout<<"This is my skoter"<<endl;
@@ -21,7 +21,7 @@ int main(){
     car c;
     ptr=&c;
     ptr->draw();
-    skoter s;
+    scooter s;
     ptr=&s;
     ptr->draw();
 }
