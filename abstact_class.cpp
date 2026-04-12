@@ -9,12 +9,6 @@ class shape{
         virtual void draw()=0;
         virtual~shape(){};
 };
-class car : public shape{
-    public:
-        void draw(){
-            cout<<"This is my car"<<endl;
-        }
-};
 class rectangle : public shape{
     public:
         void draw()override{ 
